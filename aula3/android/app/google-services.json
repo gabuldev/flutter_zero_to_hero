@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1033278628683",
+    "firebase_url": "https://zero-to-hero-4de32.firebaseio.com",
+    "project_id": "zero-to-hero-4de32",
+    "storage_bucket": "zero-to-hero-4de32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033278628683:android:bceb7691a7bf0bc6aa7ece",
+        "android_client_info": {
+          "package_name": "com.example.aula3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033278628683-rrldtjlqtjavpu457f942s4o496rvurp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsF4UrbVr_cJC2t3QcVZOseHa8tTgBiBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033278628683-rrldtjlqtjavpu457f942s4o496rvurp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
